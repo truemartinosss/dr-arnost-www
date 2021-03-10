@@ -4,4 +4,4 @@
 
 ### IVT 2A8
 
-[![](../images/start.png)](prerequisities.md)
+[![](../images/start.png)](co-budeme-potrebovat.md)
