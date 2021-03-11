@@ -6,8 +6,8 @@
 
 # Vytvoření nové Repository
 ![](../images/github-new-repo.png)
-## Stránka pro vytváření Repository
 ##
+## Stránka pro vytváření Repository
 ![](../images/github-new-repo-2.png)
 ##
 [![](../images/next.png)](github-nahravani-souboru.md)
