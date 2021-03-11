@@ -3,9 +3,10 @@
 - ### Múžete ji zde upravovat.
 - ### Změny se automaticky nahrají na Netlify.com
 - ### Změny je vždy nutné potvrdit tlačítkem `[Commit Changes]`.
+
 # Vytvoření nové Repository
-##
 ![](../images/github-new-repo.png)
+### Stránka pro vytváření Repository
 ##
 ![](../images/github-new-repo-2.png)
 ##
