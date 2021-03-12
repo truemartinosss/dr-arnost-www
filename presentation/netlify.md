@@ -5,5 +5,5 @@ Přihlášení přes GitHub na [https://app.netlify.com/](https://app.netlify.co
 ##
 ![](../images/netlify-login-2.png)
 
-[![](../images/next.png)](github-repository.md)
+[![](../images/next.png)](netlify-hosting.md)
 
